@@ -1,0 +1,3 @@
+# Library dependencies for the python code
+numpy
+webbrowser
